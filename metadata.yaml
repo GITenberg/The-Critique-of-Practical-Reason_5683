@@ -1,5 +1,5 @@
 _repo: The-Critique-of-Practical-Reason_5683
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Kritik der praktischen Vernunft. English
 contributor:
   translator:
@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '4915'
     url: http://www.gutenberg.org/2009/agents/4915
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Kingsmill_Abbott
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kant, Immanuel
@@ -28,6 +31,8 @@ description: "The Critique of Practical Reason (German: Kritik der praktischen V
   \ of the field of ethics and moral philosophy, beginning with Johann Gottlieb Fichte's\
   \ Doctrine of Science and becoming, during the 20th century, the principal reference\
   \ point for deontological moral philosophy.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5683#The-Critique-of-Practical-Reason
 gutenberg_bookshelf: Banned Books from Anne Haight's list
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
